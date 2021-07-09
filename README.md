@@ -14,7 +14,7 @@
 <img align= "center" alt="deam - linkedin" height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;" 
 </a>
 
-   ## languages:  
+   ## Languages:  
   <p>
          
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deamgaudencioramos)](https://github.com/deamgaudencioramos/github-readme-stats)

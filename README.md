@@ -14,10 +14,12 @@
 <img align= "center" alt="deam - linkedin" height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;" 
 </a>
 
+   ## Linguagens que mais utilizo:  
   <p>
-    
+         
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deamgaudencioramos&hide=javascript,html)](https://github.com/deamgaudencioramos/github-readme-stats)
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deamgaudencioramos&show_icons=true&theme=radical)
+## Status do meu GitHub:        
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deamgaudencioramos&show_icons=true&theme=radical)
    
 
   </p>

@@ -18,6 +18,8 @@
   <p>
          
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deamgaudencioramos&hide=javascript,html)](https://github.com/deamgaudencioramos/github-readme-stats)
+  
+
 ## Status do meu GitHub:        
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deamgaudencioramos&show_icons=true&theme=radical)
    

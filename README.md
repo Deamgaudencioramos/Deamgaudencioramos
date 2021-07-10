@@ -5,9 +5,9 @@
 - I have been learnig more about functional test automation in the main layers:
  
   -  WEB: -  Cypress
-  -  API: - Ressharp
+  -  API: - RestSharp
   -  MOBILE - Appium
-  -  Network - Jmeter
+  -  NETWORK - Jmeter
 
 ## Connect with me 🤙:
 <a href="https://www.linkedin.com/in/deam-gaud%C3%AAncio-01bb3b114/" target = "_blank">

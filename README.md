@@ -35,6 +35,10 @@
 ## My GitHub: 🤟        
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deamgaudencioramos&show_icons=true&theme=radical)
    
+ [![Node.js CI](https://github.com/Deamgaudencioramos/cypress-ci/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/Deamgaudencioramos/cypress-ci/actions/workflows/node.js.yml)
+[![.NET](https://github.com/Deamgaudencioramos/TesteApiRestsharp/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/Deamgaudencioramos/TesteApiRestsharp/actions/workflows/dotnet.yml)
+ 
+ 
 
   </p>
 </a>

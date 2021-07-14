@@ -6,8 +6,8 @@
  
   -  WEB: -  Cypress
   -  API: - RestSharp
-  -  MOBILE - Appium
-  -  NETWORK - Jmeter
+  -  MOBILE: - Appium
+  -  NETWORK: - Jmeter
 
 ## Connect with me 🤙:
 <a href="https://www.linkedin.com/in/deam-gaud%C3%AAncio-01bb3b114/" target = "_blank">

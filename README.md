@@ -1,7 +1,7 @@
 ### Hello:👋
 ## I'm Deam Gaudencio
 - I live in 🇧🇷azil, Northeast 🏖️ 😎
-- I have been working on Vsoft Technology as quality analyst (QA) 👨‍💻 
+- I have been working as quality analyst (QA) 👨‍💻 
 - I have been learnig more about functional test automation in the main layers:
  
   -  WEB: -  Cypress
